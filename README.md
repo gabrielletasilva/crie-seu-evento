@@ -41,5 +41,4 @@ Autor: Com carinho Gabi e Rocketseat <3
 
 Este projeto foi criado pela Rocketseat como parte do curso de full stack.
 
-![layout_crie_seu_evento](https://user-images.githubusercontent.com/82898190/220310536-ce271782-7488-4b07-b66f-aef0413e7ba3.png)
-
+![layout_crie_seu_evento](https://user-images.githubusercontent.com/82898190/220310767-93fd9ce5-3f37-48bc-bccb-f44b806c2c80.png)

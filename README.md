@@ -40,3 +40,5 @@ Este projeto é destinado a ser usado como um exemplo de estudo e não é um pro
 Autor: Com carinho Gabi e Rocketseat <3
 
 Este projeto foi criado pela Rocketseat como parte do curso de full stack.
+
+![layout_crie_seu_evento](https://user-images.githubusercontent.com/82898190/220310162-82a42646-eca3-40e6-ae66-2f4d086c5673.png)
